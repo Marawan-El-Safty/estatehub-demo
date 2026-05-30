@@ -12,8 +12,8 @@ squarely the kind of product I build — so instead of just describing my
 approach, I built a working slice of *your* platform to show you exactly how
 I'd execute.
 
-**▶ Live demo:** [ADD-VERCEL-LINK]
-**▶ Code:** [ADD-GITHUB-LINK]
+**▶ Live demo:** https://estatehub-demo.vercel.app
+**▶ Code:** https://github.com/Marawan-El-Safty/estatehub-demo
 
 It includes property listings with search/filters, a property page with a
 booking form and **AI-ranked similar homes**, an agent dashboard with a CRM
@@ -25,8 +25,9 @@ Here's everything you asked for:
 - This EstateHub demo (link above) — listings, agent dashboard, CRM pipeline,
   AI recommendations.
 - **FreightDesk CRM** — a logistics CRM I built and shipped (dashboards, lead
-  pipeline, role-based views): [ADD-FREIGHTDESK-LINK]
-- Several corporate/SaaS-style sites with dashboard UIs and API integration.
+  pipeline, role-based views): https://github.com/Marawan-El-Safty/FreightDesk-CRM
+- **Pulse Analytics** — an analytics dashboard (date filters, sortable tables,
+  hand-coded charts): https://github.com/Marawan-El-Safty/pulse-analytics
 
 **Preferred tech stack** (matches yours closely)
 - Frontend: **Next.js (App Router) + React + TypeScript + Tailwind/shadcn**
